@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "DataSplitAndCount", "DataSplitAndCount\DataSplitAndCount.cblproj", "{B368974C-3CBE-43A5-A263-9AF6F01A0518}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "Edit", "Edit\Edit.cblproj", "{D6654124-CE4A-4FA1-BF9D-FC0B3F9E4F5B}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "ReturnsProcessing", "ReturnsProcessing\ReturnsProcessing.cblproj", "{FF960DB3-0513-4614-9546-B8A3AE64ED5B}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "SalesAndLayawaysProcessing", "SalesAndLayawaysProcessing\SalesAndLayawaysProcessing.cblproj", "{15C1E213-723B-4E6C-B294-639ED04F5B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B368974C-3CBE-43A5-A263-9AF6F01A0518}.Debug|x86.ActiveCfg = Debug|x86
+		{B368974C-3CBE-43A5-A263-9AF6F01A0518}.Debug|x86.Build.0 = Debug|x86
+		{B368974C-3CBE-43A5-A263-9AF6F01A0518}.Release|x86.ActiveCfg = Release|x86
+		{B368974C-3CBE-43A5-A263-9AF6F01A0518}.Release|x86.Build.0 = Release|x86
+		{D6654124-CE4A-4FA1-BF9D-FC0B3F9E4F5B}.Debug|x86.ActiveCfg = Debug|x86
+		{D6654124-CE4A-4FA1-BF9D-FC0B3F9E4F5B}.Debug|x86.Build.0 = Debug|x86
+		{D6654124-CE4A-4FA1-BF9D-FC0B3F9E4F5B}.Release|x86.ActiveCfg = Release|x86
+		{D6654124-CE4A-4FA1-BF9D-FC0B3F9E4F5B}.Release|x86.Build.0 = Release|x86
+		{FF960DB3-0513-4614-9546-B8A3AE64ED5B}.Debug|x86.ActiveCfg = Debug|x86
+		{FF960DB3-0513-4614-9546-B8A3AE64ED5B}.Debug|x86.Build.0 = Debug|x86
+		{FF960DB3-0513-4614-9546-B8A3AE64ED5B}.Release|x86.ActiveCfg = Release|x86
+		{FF960DB3-0513-4614-9546-B8A3AE64ED5B}.Release|x86.Build.0 = Release|x86
+		{15C1E213-723B-4E6C-B294-639ED04F5B4F}.Debug|x86.ActiveCfg = Debug|x86
+		{15C1E213-723B-4E6C-B294-639ED04F5B4F}.Debug|x86.Build.0 = Debug|x86
+		{15C1E213-723B-4E6C-B294-639ED04F5B4F}.Release|x86.ActiveCfg = Release|x86
+		{15C1E213-723B-4E6C-B294-639ED04F5B4F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A72AE18B-E2D9-4FDE-92D9-9078344021F9}
+	EndGlobalSection
+EndGlobal

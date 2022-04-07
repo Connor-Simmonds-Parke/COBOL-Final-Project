@@ -1,0 +1,8 @@
+C:\Users\Connor Laptop\source\repos\FinalProject\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.exe
+C:\Users\Connor Laptop\source\repos\FinalProject\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.exe
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.exe
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.idy
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.idy
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.exe

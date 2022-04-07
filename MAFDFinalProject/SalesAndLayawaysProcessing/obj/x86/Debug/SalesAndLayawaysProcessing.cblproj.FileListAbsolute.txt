@@ -1,0 +1,8 @@
+C:\Users\Connor Laptop\source\repos\FinalProject\SalesAndLayawaysProcessing\bin\x86\Debug\SalesAndLayawaysProcessing.exe
+C:\Users\Connor Laptop\source\repos\FinalProject\SalesAndLayawaysProcessing\bin\x86\Debug\S&LProcessing.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\SalesAndLayawaysProcessing\obj\x86\Debug\S&LProcessing.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\SalesAndLayawaysProcessing\obj\x86\Debug\SalesAndLayawaysProcessing.exe
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\SalesAndLayawaysProcessing\bin\x86\Debug\SalesAndLayawaysProcessing.exe
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\SalesAndLayawaysProcessing\bin\x86\Debug\S&LProcessing.idy
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\SalesAndLayawaysProcessing\obj\x86\Debug\S&LProcessing.idy
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\SalesAndLayawaysProcessing\obj\x86\Debug\SalesAndLayawaysProcessing.exe

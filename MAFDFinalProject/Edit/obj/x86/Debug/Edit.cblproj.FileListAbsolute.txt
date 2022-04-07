@@ -1,0 +1,12 @@
+C:\Users\Connor Laptop\source\repos\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe
+C:\Users\Connor Laptop\source\repos\FinalProject\FinalProject\bin\x86\Debug\Edit.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\FinalProject\obj\x86\Debug\Edit.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\Connor Laptop\source\repos\FinalProject\Edit\bin\x86\Debug\FinalProject.exe
+C:\Users\Connor Laptop\source\repos\FinalProject\Edit\bin\x86\Debug\Edit.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\Edit\obj\x86\Debug\Edit.idy
+C:\Users\Connor Laptop\source\repos\FinalProject\Edit\obj\x86\Debug\FinalProject.exe
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\Edit\bin\x86\Debug\FinalProject.exe
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\Edit\bin\x86\Debug\Edit.idy
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\Edit\obj\x86\Debug\Edit.idy
+C:\Users\Connor Laptop\source\repos\MAFDFinalProject\Edit\obj\x86\Debug\FinalProject.exe
